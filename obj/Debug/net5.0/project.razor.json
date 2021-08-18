@@ -15619,6 +15619,11 @@
   "RootNamespace": "sarah_mvs_entity",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Clientes\\Create.cshtml",
+      "TargetPath": "Views\\Clientes\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15634,8 +15639,48 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Pedidos\\Delete.cshtml",
+      "TargetPath": "Views\\Pedidos\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Alunos\\Index.cshtml",
+      "TargetPath": "Views\\Alunos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Alunos\\Edit.cshtml",
+      "TargetPath": "Views\\Alunos\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Alunos\\Delete.cshtml",
+      "TargetPath": "Views\\Alunos\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Pedidos\\Edit.cshtml",
+      "TargetPath": "Views\\Pedidos\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Clientes\\Delete.cshtml",
+      "TargetPath": "Views\\Clientes\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Clientes\\Index.cshtml",
+      "TargetPath": "Views\\Clientes\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Pedidos\\Index.cshtml",
+      "TargetPath": "Views\\Pedidos\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15644,13 +15689,43 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Clientes\\Details.cshtml",
+      "TargetPath": "Views\\Clientes\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Alunos\\Create.cshtml",
+      "TargetPath": "Views\\Alunos\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Pedidos\\Details.cshtml",
+      "TargetPath": "Views\\Pedidos\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Pedidos\\Create.cshtml",
+      "TargetPath": "Views\\Pedidos\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Clientes\\Edit.cshtml",
+      "TargetPath": "Views\\Clientes\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dinopc\\sarah-mvs-entity\\Views\\Alunos\\Details.cshtml",
+      "TargetPath": "Views\\Alunos\\Details.cshtml",
       "FileKind": "mvc"
     }
   ],
